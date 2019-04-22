@@ -22,6 +22,7 @@ public class CritterRunner {
 	}
 }
 
+//REMOVE LATER 
 //Exercise 5
 /*
  * getActors() returns the number of actors for processing. It returns the
