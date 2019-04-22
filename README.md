@@ -1,9 +1,9 @@
-### **Setting up Gridworld**</br> 
-# **Getting the files** </br>
+# **Setting up Gridworld**</br> 
+## **Getting the files** </br>
 Download a zip file of the Gridworld code. Or copy/paste url below: </br>
 [GridWorld Source Code](http://apcentral.collegeboard.com/apc/public/repository/GridWorldCode.zip) </br>
 Extract all the files from the Gridworld archive into your computer science folder. </br>
-# **Eclipse** </br>
+### **Eclipse** </br>
 1. Create a new project
 2. Right click on the project name in the package explorer
 3. Click on ‘properties’ (very bottom option)
