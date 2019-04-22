@@ -1,6 +1,6 @@
 # **Setting up Gridworld**</br> 
 ## **Getting the files** </br>
-Download a zip file of the Gridworld code. Link: [GridWorld Source Code](http://apcentral.collegeboard.com/apc/public/repository/GridWorldCode.zip) </br>
+Download a zip file of the Gridworld code. File: [GridWorld Source Code](http://apcentral.collegeboard.com/apc/public/repository/GridWorldCode.zip) </br>
 Extract all the files from the Gridworld archive somewhere you can easily find it. </br>
 Now open up Eclipse. </br>
 ### **Eclipse** </br>
