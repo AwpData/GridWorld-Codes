@@ -22,16 +22,3 @@ public class CritterRunner {
 		world.show();
 	}
 }
-
-//Exercise 5
-/*
- * getActors() returns the number of actors for processing. It returns the
- * actors that occupy neighboring grid locations processActors() causes the
- * actors to eat any actors that arn't rocks or critters. getMoveLocations()
- * lists all the possible locations for the next move. It returns empty
- * neighboring locations selectMoveLocation() selects the location for the next
- * move. It randomly picks one of the possible locations or the current location
- * if there are none. makeMove() moves the critter to this given location or
- * removes it if location is null. If there is an actor at the location, it
- * removes that actor before placing.
- */
