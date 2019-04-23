@@ -9,6 +9,8 @@ public class ChameleonCritter extends Critter {
 	 * Randomly selects a neighbor and changes this critter's color to be the same
 	 * as that neighbor's. If there are no neighbors, no action is taken.
 	 */
+	
+	@Override
 	public void processActors(ArrayList<Actor> actors) {
 		int n = actors.size();
 		if (n == 0)
@@ -21,6 +23,8 @@ public class ChameleonCritter extends Critter {
 	/**
 	 * Turns towards the new location as it moves.
 	 */
+	
+	@Override
 	public void makeMove(Location loc) {
 		setDirection(getLocation().getDirectionToward(loc));
 		super.makeMove(loc);
