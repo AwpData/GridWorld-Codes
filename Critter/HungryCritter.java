@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+import java.util.*;
 import info.gridworld.actor.Actor;
 
 public class HungryCritter extends ChameleonCritter {
