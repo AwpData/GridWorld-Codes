@@ -11,6 +11,7 @@ public class CritterRunner {
 		ActorWorld world = new ActorWorld();
 		HungryCritter critter = new HungryCritter();
 		//RockCritter critter = new RockCritter();
+		critter.setColor(Color.BLACK);
 		world.add(new Location(7, 8), new Rock());
 		world.add(new Location(3, 3), new Rock());
 		world.add(new Location(2, 8), new Flower(Color.BLUE));
@@ -22,7 +23,6 @@ public class CritterRunner {
 	}
 }
 
-//REMOVE LATER 
 //Exercise 5
 /*
  * getActors() returns the number of actors for processing. It returns the
