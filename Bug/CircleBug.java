@@ -7,6 +7,7 @@ public class CircleBug extends Bug {
 		steps = 0;
 	}
 
+	@Override
 	public void act() {
 		if (steps < 2 && canMove()) {
 			move();
@@ -17,6 +18,7 @@ public class CircleBug extends Bug {
 		}
 	}
 
+	@Override
 	public void turn() {
 		setDirection(getDirection() + 45);
 	}
