@@ -7,6 +7,7 @@ public class ZigZagBug extends Bug {
 		steps = 0;
 	}
 
+	@Override
 	public void act() {
 		if (steps < 1 && canMove()) {
 			setDirection(-90);
