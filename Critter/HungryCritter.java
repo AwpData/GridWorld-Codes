@@ -3,6 +3,7 @@ import info.gridworld.actor.Actor;
 
 public class HungryCritter extends ChameleonCritter {
 
+	@Override
 	public void processActors(ArrayList<Actor> actors) {
 		int n = actors.size();
 		if (n == 0) {
