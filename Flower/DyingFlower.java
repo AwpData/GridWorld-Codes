@@ -8,6 +8,7 @@ public class DyingFlower extends SpinningFlower {
 		this.age = 0;
 	}
 
+	@Override
 	public void act() {
 		super.act();
 		age++;
