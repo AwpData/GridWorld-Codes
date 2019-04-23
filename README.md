@@ -1,7 +1,7 @@
 # **Setting up Gridworld**</br> 
 ## **Getting the files** </br>
 Download the zip file of the Gridworld code. File: [GridWorld Source Code](http://apcentral.collegeboard.com/apc/public/repository/GridWorldCode.zip) </br>
-Download the API Reference for Gridworld. File: [GridWorld API Guide](GridWorldAPI.pdf "GridWorld API") (Needs to be implemented)  </br>
+Download the API Reference for Gridworld. File: [GridWorld API Guide](https://www.mediafire.com/file/j008szzobz88fw1/GridWorldAPI.pdf/file "GridWorld API") </br>
 Extract all the files from the Gridworld archive somewhere you can easily find it. </br>
 Open Eclipse. </br>
 ### **Eclipse** </br>
